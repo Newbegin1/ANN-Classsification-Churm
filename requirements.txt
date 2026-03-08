@@ -7,4 +7,6 @@ matplotlib
 streamlit
 
 scikeras
+altair<5
+
 
